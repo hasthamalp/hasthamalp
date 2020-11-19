@@ -7,6 +7,13 @@
 - 🔭 I’m currently working on coding skills.
 - 🌱 I’m currently learning open source technologies and linux fundementals
 
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasthamalp&theme=radical&layout=compact&custom_title=Top%20Languages%20(Public%20Repos)">
+</a>
+</p>
+
 ### My Skills 🚀
 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
