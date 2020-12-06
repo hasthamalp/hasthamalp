@@ -37,6 +37,9 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
 
+[![Visits Badge](https://badges.pufler.dev/visits/hasthamalp/hasthamalp)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/hasthamalp)](https://badges.pufler.dev)
+
+
 
 
 
