@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![node](https://img.shields.io/badge/node-dot-js-%339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white&color=E34F26)
+![node](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=E34F26)
 
 
 ### Tools I Use 🔧🔨
