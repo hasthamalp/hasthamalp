@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source;Fullstack+Development;Data+Analytics;Documentations&center=true&width=380&height=45"></a>
 </p>
 
-[![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=hasthamalp&theme=xcode)](https://git.io/starlightknown)
+<!-- [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=hasthamalp&theme=xcode)](https://git.io/starlightknown) -->
 
 
 ![](https://github.com/hasthamalp/hasthamalp/blob/output/github-contribution-grid-snake.gif)
