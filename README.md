@@ -9,7 +9,7 @@
 <!-- [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=hasthamalp&theme=xcode)](https://git.io/starlightknown) -->
 
 
-![](https://github.com/hasthamalp/hasthamalp/blob/output/github-contribution-grid-snake.gif)
+<!--![](https://github.com/hasthamalp/hasthamalp/blob/output/github-contribution-grid-snake.gif)-->
 
 
 
